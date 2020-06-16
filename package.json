@@ -1,0 +1,14 @@
+{
+  "name": "tinymce-imgupload",
+  "version": "1.0.0",
+  "main": "imgupload.js",
+  "repository": "https://github.com/qyhever/tinymce-imgupload",
+  "author": "qyhever <yesterday.today.tomorrow2000@gmail.com>",
+  "description": "A image upload plugin for tinymce",
+  "keywords": [
+    "tinymce",
+    "imgupload",
+    "imageupload"
+  ],
+  "license": "MIT"
+}
